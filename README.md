@@ -1,18 +1,21 @@
-<img src="ScreenShots/1.PNG" width="400">
-
-#![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
-##![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
-#![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
-#![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
-#![Alt text](/ScreenShots/5.PNG?raw=true "Optional Title")
+![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
+![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
+![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
+![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
+![Alt text](/ScreenShots/5.PNG?raw=true "Optional Title")
 
 Functions/tasks that this prototype can do
 
 1 User can add fields as well as item data (name,picture of item and speech).
+
 2 User can edit item name, emoji and speech.
+
 3 When user click on item, text which store in item convert to speech.
+
 4 User can choose enable or disable edit item data.
+
 5 User can delete items and fields.
+
 6 User can able to send EMERGENCY SMS 
 
 How to run it
