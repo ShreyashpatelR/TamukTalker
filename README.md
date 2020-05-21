@@ -1,4 +1,8 @@
 ![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
+![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
+![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
+![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
+![Alt text](/ScreenShots/5.PNG?raw=true "Optional Title")
 
 Functions/tasks that this prototype can do
 
@@ -15,7 +19,7 @@ Prerequisite
 1 Python 3
 2 tkinter
 
-1 python3 -m pip install xlrd
+1 python3 -m pip install xlrd \n
 2 python3 -m pip instal pyttsx3
 3 python3 -m pip install pillow
 4 python3 -m pip install openpyxl
