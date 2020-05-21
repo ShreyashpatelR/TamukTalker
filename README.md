@@ -1,3 +1,5 @@
+![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
+
 Functions/tasks that this prototype can do
 
 1 User can add fields as well as item data (name,picture of item and speech).
