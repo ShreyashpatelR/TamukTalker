@@ -1,10 +1,11 @@
+#TAMUK TALKER
 ![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/5.PNG?raw=true "Optional Title")
 
-Functions/tasks that this prototype can do
+##Functions/tasks that this prototype can do
 
 1 User can add fields as well as item data (name,picture of item and speech).
 
