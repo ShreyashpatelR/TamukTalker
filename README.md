@@ -1,8 +1,10 @@
-![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
-![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
-![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
-![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
-![Alt text](/ScreenShots/5.PNG?raw=true "Optional Title")
+<img src="ScreenShots/1.PNG" width="250">
+
+#![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
+##![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
+#![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
+#![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
+#![Alt text](/ScreenShots/5.PNG?raw=true "Optional Title")
 
 Functions/tasks that this prototype can do
 
@@ -40,4 +42,4 @@ of the field. Added emergency SMS button in home page. User can add contact numb
 
 
     
-<img src="ScreenShots/1.PNG" width="48">
+
