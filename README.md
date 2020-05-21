@@ -22,19 +22,34 @@
 
 ## How to run it
 
-Prerequisite
+###### Prerequisite
+
 1 Python 3
+
 2 tkinter
 
+3 Windows 
+
+###### Installation
+
 1 python3 -m pip install xlrd 
+
 2 python3 -m pip instal pyttsx3
+
 3 python3 -m pip install pillow
+
 4 python3 -m pip install openpyxl
+
 5 python3 -m pip install twilio
+
 6 download zip
+
 7 unzip
+
 8 enter into shreyashPatel folder
+
 9 open terminal 
+
 10 excute "python3 Init.py"
 
 ## How to test these functions along with any small files that are needed for testing.
