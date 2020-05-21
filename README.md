@@ -1,4 +1,4 @@
-![Alt text](/ScreenShots/1.PNG =250x250?raw=true "Optional Title")
+![Alt text](/ScreenShots/1.PNG ?raw=true width="200" height="400" "Optional Title")
 ![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
