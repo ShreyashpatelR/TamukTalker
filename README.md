@@ -1,4 +1,4 @@
-![Alt text](/ScreenShots/1.PNG width="200" height="400"?raw=true "Optional Title")
+![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
@@ -40,3 +40,4 @@ of the field. Added emergency SMS button in home page. User can add contact numb
 
 
     
+<img src="ScreenShots/1.PNG" width="48">
