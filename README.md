@@ -1,4 +1,4 @@
-<img src="ScreenShots/1.PNG" width="250">
+<img src="ScreenShots/1.PNG" width="400">
 
 #![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
 ##![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
