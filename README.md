@@ -1,4 +1,4 @@
-![Alt text](/ScreenShots/1.PNG=250x250?raw=true "Optional Title")
+![Alt text](/ScreenShots/1.PNG =250x250?raw=true "Optional Title")
 ![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
@@ -19,7 +19,7 @@ Prerequisite
 1 Python 3
 2 tkinter
 
-1 python3 -m pip install xlrd \n
+1 python3 -m pip install xlrd 
 2 python3 -m pip instal pyttsx3
 3 python3 -m pip install pillow
 4 python3 -m pip install openpyxl
