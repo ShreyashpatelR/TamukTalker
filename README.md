@@ -1,11 +1,12 @@
-#TAMUK TALKER
+# TAMUK TALKER
+
 ![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/3.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/4.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/5.PNG?raw=true "Optional Title")
 
-##Functions/tasks that this prototype can do
+## Functions/tasks that this prototype can do
 
 1 User can add fields as well as item data (name,picture of item and speech).
 
@@ -19,7 +20,7 @@
 
 6 User can able to send EMERGENCY SMS 
 
-How to run it
+## How to run it
 
 Prerequisite
 1 Python 3
@@ -36,7 +37,7 @@ Prerequisite
 9 open terminal 
 10 excute "python3 Init.py"
 
-How to test these functions along with any small files that are needed for testing.
+## How to test these functions along with any small files that are needed for testing.
 
 When software will start user can see Home page. In that page there are may fields and edit enable / disable and add button. In that if user will press field button then user 
 can see Items Page in that user can click any items and it will speech. Edit is disable default if it is enable then after when use click on item button for speech, user can see 
