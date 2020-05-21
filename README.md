@@ -1,4 +1,4 @@
-# TAMUK TALKER
+# Tamuk Talker
 
 ![Alt text](/ScreenShots/1.PNG?raw=true "Optional Title")
 ![Alt text](/ScreenShots/2.PNG?raw=true "Optional Title")
